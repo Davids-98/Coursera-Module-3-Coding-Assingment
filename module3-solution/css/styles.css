@@ -1,0 +1,86 @@
+
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: lightcyan;
+	font-family: 'Lora', sans-serif;
+}
+
+/* HEADER */
+#header-nav {
+	background-color: #02a95c;
+	border-radius: 0;
+	border: 0;
+	color: white;
+	box-shadow: 0 6px 14px rgb(0 0 0 / 10%);;
+
+}
+
+.navbar-brand {
+	color: white;
+	padding: 15px;
+}
+.navbar-brand h1{/*Company Name*/
+	font-family: 'Lora', serif;
+	color: white;
+	font-size: 1.8em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-brand a:focus, .navbar-brand a:hover {
+	text-decoration: none;
+}
+
+#nav-list a {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid goldenrod;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px;
+}
+.container{
+
+	color: black;
+	font-family: 'Lora', sans-serif;
+}
+.container h2{
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+.col-xs-12{
+	margin-bottom: 20px;
+}
+.text{
+
+	box-sizing: border-box;
+	background-color: lightskyblue;
+	padding: 20px 15px 15px 20px;
+	overflow: hidden;
+	height: 3000px;
+}
+.text h3{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+/* END HEADER */
+
+/* Section */
+
+
+
+
+
+
